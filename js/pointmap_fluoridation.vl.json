@@ -7,7 +7,7 @@
   "layer": [
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/eddent2009/Edden_FIT3179/refs/heads/main/Week9_HW/js/vic_localities.json",
+        "url": "https://raw.githubusercontent.com/eddent2009/Edden_FIT3179_HW9/refs/heads/main/js/vic_localities.json",
         "format": {"type": "topojson", "feature": "vic_localities"}
       },
       "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"}
